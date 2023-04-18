@@ -17,3 +17,5 @@ npm install --save-dev ts-node-dev
 }
 
 ```
+
+-  by running npm run dev, we have a working, auto-reloading development environment for our project!
